@@ -1,5 +1,5 @@
 body {
-    background-image: url(./css/background.png);
+    background-image: url(background.png);
     display: flex;
     justify-content: center;
     flex-direction: column;
